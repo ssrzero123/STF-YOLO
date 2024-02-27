@@ -1,7 +1,10 @@
 # STF-YOLO（Based on yolov8）
+基于yolov8的模型改进
+包含多种backbone和head改进，以及多种注意力机制
+
 Object detection yolov8 model improvement
 
-Small Object Detection Algorithm Incorporating Swin Transformer for Tea Buds.
+《Small Object Detection Algorithm Incorporating Swin Transformer for Tea Buds》
 
 Replace the above files with the files in the original version of yolov8.
 
