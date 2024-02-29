@@ -1,6 +1,7 @@
 # STF-YOLO（Based on yolov8）
 基于yolov8的模型改进
 包含多种backbone和head改进，以及多种注意力机制
+网络结构策略在cfg/models/v8里
 
 Object detection yolov8 model improvement
 
@@ -8,7 +9,7 @@ Object detection yolov8 model improvement
 
 Replace the above files with the files in the original version of yolov8.
 
-There are many strategies in nn/../v8, among which I recommend *yolov8x_DW_swin_FOCUS-3.yaml*.
+There are many strategies in cfg/models/v8, among which I recommend *yolov8x_DW_swin_FOCUS-3.yaml*.
 
 Use the following command on the command line：
 ```
