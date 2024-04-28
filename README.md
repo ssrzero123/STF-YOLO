@@ -15,6 +15,8 @@ Use the following command on the command line：
 ```
 yolo task=detect mode=train model=yolov8x_DW_swin_FOCUS-3.yaml data=data.yaml batch=8 epochs=300 imgsz=640 workers=4 device=0 mosaic=1 mixup=0.5 flipud=0.5 fliplr=0.5 cache=True
 
+
+
 ------------------------------------------------------------------------------------------------------------------------
 2024.4.28
 好多朋友反映出现了问题，在此我把我所有文件上传到STF-YOLO包库里：ultralytics文件夹
