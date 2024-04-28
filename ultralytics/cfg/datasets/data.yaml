@@ -1,0 +1,13 @@
+# dataset path
+#train: E:\model\ultralytics-main yolov8\dataset\images\train
+#val: E:\model\ultralytics-main yolov8\dataset\images\val
+#test: E:\model\ultralytics-main yolov8\dataset\images\test
+train: images/train
+val: images/val
+test: images/test
+# number of classes
+nc: 1
+
+# class names
+#names: ['half_cherry','ripe_cherry','unripe_cherry']
+names: ['ya']
