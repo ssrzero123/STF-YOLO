@@ -9,11 +9,11 @@
 
 因为ultralytics使用的一键安装模式，本地再下载，会和环境里的包冲突
 
-我的方法是将ultralytics替换环境里的ultralytics包，然后更改ultralytics包里的文件、代码
+我的方法是**将ultralytics替换环境里的ultralytics包**，然后**更改ultralytics包里的文件、代码**
 
 做法：
 
-比如我使用的Ubuntu，于是只要将我新上传的ultralytics文件夹替换掉\\wsl.localhost\Ubuntu-20.04\home\ling\miniconda3\envs\torch\lib\python3.8\site-packages目录下的ultralytics即可
+**比如我使用的Ubuntu，于是只要将我新上传的ultralytics文件夹替换掉\\wsl.localhost\Ubuntu-20.04\home\ling\miniconda3\envs\torch\lib\python3.8\site-packages目录下的ultralytics即可**
 
 在本地虚拟环境的找一下conda里的环境里的包就行
 
